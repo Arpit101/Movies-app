@@ -1,0 +1,14 @@
+.header{
+    background-color:#222;
+    height: 36px;
+    padding: 8px,8px,32px,16px;
+}
+.logo{
+    background-color:  #ff7f7f;
+    height: 35px;
+    animation-duration: 8s;
+    animation-timing-function: linear;
+    animation-name: logo;
+    
+}
+
