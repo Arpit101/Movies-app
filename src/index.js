@@ -1,11 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Header from '../src/common/header/Header';
+import Home from '../src/screens/home/Home';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <Header/>,
+  <>
+  <Header/>
+  </>,
   document.getElementById('root')
 );
 
