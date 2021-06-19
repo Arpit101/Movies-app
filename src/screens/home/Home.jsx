@@ -1,4 +1,4 @@
- export default Home;
+
 import React from "react";
 import "./Home.css";
 import Header from "./../../common/header/Header";
@@ -139,5 +139,4 @@ class Home extends React.Component {
     );
   }
 }
-
 export default Home;
